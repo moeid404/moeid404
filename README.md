@@ -14,10 +14,8 @@
 
 ## 👨‍💻 About Me
 
-I'm a **CloudOps Engineer** and **AWS Certified Solutions Architect – Associate**, experienced in deploying and managing **cloud infrastructure** on **AWS and Huawei Cloud**.  
-Skilled in **Linux administration**, **infrastructure automation with Terraform**, and **server configuration using Ansible**.  
-I specialize in **CI/CD pipelines**, **containerization (Docker & Kubernetes)**, and **monitoring with Prometheus & Grafana**.  
-Passionate about **automation, DevOps culture, and continuous improvement** to deliver secure, scalable, and reliable systems.
+CloudOps Engineer with hands-on experience in deploying and managing cloud infrastructure on AWS and Huawei Cloud. Skilled in automating infrastructure with Terraform and server configuration with Ansible. Experienced in securing Linux-based systems, managing DNS and email services, and implementing reliable backup and monitoring solutions. Passionate about automation, DevOps practices, and continuous improvement.
+
 
 ---
 
